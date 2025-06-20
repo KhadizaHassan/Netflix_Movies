@@ -1,4 +1,4 @@
-@📹 # Analysis on Netflix_Movies_Shows
+# @📹 Analysis on Netflix_Movies_Shows
 Take a tour
 
 Welcome to the repertory for the Netflix “movies and shows”. This project designed to provide consistent information about the movies and shows and offer flawless learning about movies and shows.
